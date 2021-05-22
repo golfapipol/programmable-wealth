@@ -1,1 +1,1 @@
-# programmable-wealth
+# Programmable wealth
